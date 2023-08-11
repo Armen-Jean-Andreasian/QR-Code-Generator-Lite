@@ -21,7 +21,7 @@ This is a simple QR code generator application built using the PySimpleGUI libra
 - ![img_1.png](img_1.png)
 
 
-- ![img_3.png](img_3.png)
+- ![img_3.png](img_2.png)
 ## Author
 
 Armen-Jean Andreasian, 2023
